@@ -1,7 +1,6 @@
 # Deep-DHRP: Dynamic Hybrid VANET Routing Protocol
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/burke/HybridCNN/blob/main/Hybridcnn.ipynb)
-https://colab.research.google.com/drive/1vQKhKdx8CSJKRVV3-EM7tmfGoxSaLs4c#scrollTo=c9OkrYHzb1t1&uniqifier=1
+
 ## Description
 This repository contains the simulation framework, physical layer configurations, and mobility traces for the **Deep Hybrid Routing Protocol (Deep-DHRP)**. Deep-DHRP resolves the fundamental performance trade-off between reactive (AODV) and proactive (OLSR) routing in Vehicular Ad-hoc Networks (VANETs). By replacing static thresholds with a spatial-aware deep learning agent, the protocol dynamically modulates transmission power and routing paradigms to guarantee a Packet Delivery Ratio (PDR) exceeding 90% in dense urban topologies.
 
